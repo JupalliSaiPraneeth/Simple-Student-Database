@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://simple-student-database-2.onrender.com/api/students",
+  baseURL: "https://simple-student-database-5.onrender.com/api/students",
 });
 
 
